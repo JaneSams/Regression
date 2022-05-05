@@ -1,4 +1,4 @@
-#Regression Project - Manhattan rent price prediction
+# Regression Project - Manhattan rent price prediction
 
 Goal : Based on the dataset pulled from Kagal, we will show the rent price prediction by 3 different models as learned in the course so far.
 
