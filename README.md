@@ -1,4 +1,5 @@
 #Regression Project - Manhattan rent price prediction
+
 Goal : Based on the dataset pulled from Kagal, we will show the rent price prediction by 3 different models as learned in the course so far.
 
 1st part: organize the data and prepare it for the models . This includes manipulating the data by grouping features, normalization, targeting points, multiplying selected features and other techniques to help us analyze the data and prepare it as well as we can for the regressions models .
